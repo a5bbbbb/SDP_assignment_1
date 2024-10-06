@@ -28,7 +28,7 @@ public class Main {
                 card1
                 );
 
-        PayPalCredentials paypal1 = new PayPalCredentials(
+        PayPalCredentialsGettable paypal1 = new PayPalCredentials(
                 1,
                 "user1",
                 "pass1"
